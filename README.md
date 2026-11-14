@@ -121,3 +121,30 @@ The actual executable path and runscript depend on each image's contents. The `.
 - This repository is not an upstream mirror or an assertion of authorship or warranty.
 - Original `.def` files can help reproducibility but may need refreshed bases, pinned versions, and validation before rebuilding.
 - Some third-party licenses restrict packaging or redistribution; when unclear, link to the upstream source instead.
+
+
+## Container-specific documentation
+
+The following guides document container usage, configuration,
+and bioinformatics workflows developed or maintained for HPC
+research environments.
+
+| Tool | Documentation |
+|------|---------------|
+| APASCAN | [APASCAN container guide](docs/README_APASCAN_CONTAINER.md) |
+| LABRAT | [LABRAT container guide](docs/README_LABRAT_CONTAINER.md) |
+| QAPA + Salmon | [QAPA/Salmon container guide](docs/README_QAPA_SALMON_CONTAINER.md) |
+| SCAPE | [SCAPE container guide](docs/README_SCAPE_CONTAINER.md) |
+| General | [Legacy container documentation](docs/README_LEGACY_CONTAINER_COLLECTION.md) |
+
+These guides describe historical container environments and may
+include installation instructions, example commands, input requirements,
+and HPC execution workflows.
+
+**Note:** Documentation does not guarantee that a corresponding
+container image is included in the current GitHub Release.
+Consult the release assets for actual binary availability.
+
+The underlying software belongs to its respective developers.
+Container preparation, workflow configuration, and documentation
+do not imply authorship of the original software.
