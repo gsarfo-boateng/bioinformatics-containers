@@ -2,7 +2,32 @@
 
 A curated inventory of bioinformatics software container images used or assembled for research on HPC systems, with build definitions where available, checksums, provenance fields, and (where permitted) downloadable release artifacts.
 
-> **Attribution:** This repository is a collection and reproducibility resource. The repository maintainer does **not** claim ownership of the third-party software packaged in these containers. Each upstream tool remains the property of its respective authors and copyright holders and is subject to its own license and distribution terms. Building, converting, or packaging an image does not transfer copyright or imply permission to redistribute third-party binaries.
+## Attribution and disclaimer
+
+This repository contains a curated collection of Apptainer/Singularity
+and Docker-compatible container images assembled, built, converted,
+downloaded, or maintained for bioinformatics research and
+high-performance computing (HPC) workflows.
+
+**I am not the original developer or copyright holder of the
+bioinformatics software packaged within these containers.**
+
+All underlying software, trademarks, intellectual property, and
+associated rights remain with their respective developers,
+contributors, institutions, and organizations.
+
+My contributions, where applicable, involve container preparation,
+environment configuration, HPC compatibility, organization,
+documentation, and reproducibility.
+
+Users should acknowledge and cite the original software developers
+and relevant publications. Refer to the upstream software projects
+for official documentation, licenses, and updates.
+
+**Redistribution notice:** Inclusion in this collection or approval
+for repository staging does not independently establish permission
+to redistribute third-party binaries. Each tool remains subject
+to its applicable upstream license and distribution terms.
 
 ## Contents
 
