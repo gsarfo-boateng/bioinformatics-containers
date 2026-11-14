@@ -1,3 +1,19 @@
-# One filename per line AFTER verifying that its upstream license allows redistribution.
-# Also set redistribution_permission=approved in provenance.tsv for the same filename.
-# No binaries are approved by default.
+# Maintainer-authorized for private release staging.
+# Upstream redistribution terms are not independently verified.
+bedtools.sif
+bwa_0.7.18.sif
+fastqc_0.12.1.sif
+isoquant-amd64.tar
+isoquant.sif
+labrat-amd64.sif
+labrat-amd64.tar
+modkit_latest.sif
+multiqc_1.21.sif
+qapa-salmon-amd64.sif
+rmats-long_v2.0.1.sif
+rmats-salmon-star-amd64.sif
+rmats-salmon-star-amd64.tar
+scutr-quant_0.5.0.sif
+suppa-amd64.tar
+suppa.sif
+ucsc-bedgraphtobigwig.sif

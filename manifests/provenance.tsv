@@ -1,21 +1,21 @@
 filename	upstream_project	upstream_url	origin	redistribution_permission	notes
-bedtools.sif	BEDTools		unverified	unverified	
-bwa_0.7.18.sif	BWA		unverified	unverified	
+bedtools.sif	BEDTools		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+bwa_0.7.18.sif	BWA		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
 dorado_latest.sif	Dorado		unverified	unverified	
-fastqc_0.12.1.sif	FastQC		unverified	unverified	
-isoquant-amd64.tar	IsoQuant		unverified	unverified	
-isoquant.sif	IsoQuant		unverified	unverified	
-labrat-amd64.sif	LABRAT		unverified	unverified	
-labrat-amd64.tar	LABRAT		unverified	unverified	
-modkit_latest.sif	modkit		unverified	unverified	
-multiqc_1.21.sif	MultiQC		unverified	unverified	
-qapa-salmon-amd64.sif	QAPA + Salmon		unverified	unverified	
-rmats-long_v2.0.1.sif	rMATS-long		unverified	unverified	
-rmats-salmon-star-amd64.sif	rMATS + Salmon + STAR		unverified	unverified	
-rmats-salmon-star-amd64.tar	rMATS + Salmon + STAR		unverified	unverified	
+fastqc_0.12.1.sif	FastQC		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+isoquant-amd64.tar	IsoQuant		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+isoquant.sif	IsoQuant		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+labrat-amd64.sif	LABRAT		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+labrat-amd64.tar	LABRAT		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+modkit_latest.sif	modkit		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+multiqc_1.21.sif	MultiQC		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+qapa-salmon-amd64.sif	QAPA + Salmon		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+rmats-long_v2.0.1.sif	rMATS-long		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+rmats-salmon-star-amd64.sif	rMATS + Salmon + STAR		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+rmats-salmon-star-amd64.tar	rMATS + Salmon + STAR		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
 scape.def	scAPE		unverified	unverified	
-scutr-quant_0.5.0.sif	scUTR-quant		unverified	unverified	
-suppa-amd64.tar	SUPPA		unverified	unverified	
+scutr-quant_0.5.0.sif	scUTR-quant		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+suppa-amd64.tar	SUPPA		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
 suppa.def	SUPPA		unverified	unverified	
-suppa.sif	SUPPA		unverified	unverified	
-ucsc-bedgraphtobigwig.sif	UCSC bedGraphToBigWig		unverified	unverified	
+suppa.sif	SUPPA		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
+ucsc-bedgraphtobigwig.sif	UCSC bedGraphToBigWig		unverified	approved	Maintainer-authorized for private release staging; upstream redistribution terms not independently audited.
