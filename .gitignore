@@ -1,0 +1,28 @@
+# Large artifacts: distribute approved binaries via GitHub Releases, not Git history
+*.sif
+*.simg
+*.tar
+*.tar.gz
+*.oci
+*.img
+*.squashfs
+
+# Runtime caches, large temporary data
+apptainer_cache/
+apptainer_tmp/
+.cache/
+tmp/
+temp/
+work/
+
+# OS/editor files
+.DS_Store
+._*
+__pycache__/
+*.pyc
+
+# Local-only settings
+.env
+.env.*
+
+# Keep documentation, recipes, manifests, and scripts under Git

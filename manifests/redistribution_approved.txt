@@ -1,0 +1,3 @@
+# One filename per line AFTER verifying that its upstream license allows redistribution.
+# Also set redistribution_permission=approved in provenance.tsv for the same filename.
+# No binaries are approved by default.
